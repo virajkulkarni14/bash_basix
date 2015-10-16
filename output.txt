@@ -1,5 +1,7 @@
 Hello World
 Hello Viraj
-This is 
+This is
 new
  Hello People
+This is a test|yes
+This is a test|no

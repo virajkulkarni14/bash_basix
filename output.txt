@@ -5,3 +5,5 @@ new
  Hello People
 This is a test|yes
 This is a test|no
+This  line  contains  tabs
+This  line  contains  tabs  too
